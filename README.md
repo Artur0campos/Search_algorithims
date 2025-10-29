@@ -17,3 +17,16 @@ O objetivo é **comparar a eficiência** dos dois algoritmos de busca e visualiz
 
 ## ⚙️ Estrutura do Projeto
 
+- `LinearSearch.py` → Implementa a busca linear e mede o tempo de execução.  
+- `BinarySearch.py` → Implementa a busca binária e mede o tempo de execução.  
+- `compare.py` → Executa ambos os algoritmos com diferentes tamanhos de lista e exibe os resultados.
+
+---
+
+| 🧩 Tamanho da lista | ⚡ Linear Search (O(n)) | 🚀 Binary Search (O(log n)) |
+|---------------------:|------------------------:|-----------------------------:|
+| 10                  | 0.0000040s             | 0.0000011s                  |
+| 100                 | 0.0000102s             | 0.0000015s                  |
+| 1.000               | 0.0000945s             | 0.0000021s                  |
+| 100.000             | 0.0102431s             | 0.0000067s                  |
+
