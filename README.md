@@ -1,8 +1,8 @@
 # 🔎 Comparativo: Linear Search vs Binary Search
 
 Este projeto demonstra, na prática, a diferença de desempenho entre **Linear Search** (busca linear) e **Binary Search** (busca binária) em Python, utilizando medições reais de tempo de execução.
-
 ---
+<img alt="Python" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ## 🧠 Objetivo
 
