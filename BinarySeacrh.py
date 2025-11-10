@@ -26,7 +26,7 @@ def binarySearch(array,num_searched):
     return -1, total_seconds
 
 
-sizes = [10, 100, 1000, 10000, 100000]
+sizes = [10, 100, 1000, 10000, 100000, 1000000, 10000000000]
 for item in sizes:
     array = list(range(item))
     num = choice(array)
